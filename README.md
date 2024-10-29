@@ -13,7 +13,6 @@
                      ~ jons.vvi@gmail.com
                      ~ linkedin.com/in/jatin-naik-a910202a3
 - 😄 Pronouns: ... HE / HIM
-- ⚡ Fun fact: ... I sleep while I am sleeping and code while sleeping. 
 
 <!---
 Lord-Jastannum/Lord-Jastannum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
